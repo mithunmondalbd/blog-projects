@@ -189,3 +189,39 @@ li a:hover{
   color: white;
   text-align: start;
 }
+
+/* footer section start here */
+.main__part{
+  display: flex;
+  height: 60vh;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  background-color: black;
+  color: #ffffff;
+  padding: 0 30px;
+}
+.first_start{
+  /* width: 35%; */
+  text-align: center;
+  padding: 0 30px;
+}
+.start-title{
+  color: #ffffff;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 700;
+}
+.footer-desc{
+  /* width: 30%; */
+  text-align: left;
+  padding: 8px 10px;
+  line-height: 24px;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: oblique;
+  
+}
+.sec_start{
+  width: 15%;
+}
